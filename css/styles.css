@@ -1,0 +1,67 @@
+body	{
+	background-color:#EFEFEF;
+}
+
+
+h1	{
+	text-align:center;
+	font-family: 'Sonsie One', cursive;
+	font-size:55px;
+	margin-top:30px;
+	color:#ADD9B2;
+	
+}
+
+h2	{
+	font-family: 'Sonsie One', cursive;
+	font-size:23px;
+	color:#C8D1A5;
+}
+
+p	{
+	font-size:16px;
+	line-height:27px;
+}
+
+.last	{
+	font-size:16px;
+	line-height:27px;
+	margin-top:411px;
+	margin-bottom:55px;
+	margin-left:19px;
+}
+
+small	{
+	font-family: 'Bitter', serif;
+	font-size:18px;
+	margin-left:12px;
+}
+.thumbnail	{
+	background-color:white;
+}
+
+.thumb	{
+	font-size:12px;
+	line-height:25px;	
+}
+
+.row	{
+	margin-top:25px;
+}
+
+
+.carousel {
+	margin-left:170px;
+}
+
+.carousel-control.right {
+	right:182px;
+	top:78%;
+
+}
+.carousel-control.left {
+	top:78%;
+	
+
+}
+

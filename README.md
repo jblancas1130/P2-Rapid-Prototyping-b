@@ -1,4 +1,4 @@
-P2-Rapid-Prototyping-b
+378-Bootstrap-Template
 ======================
 
-P2 b html
+New practice template from 4/18/13
